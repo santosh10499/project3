@@ -47,7 +47,7 @@ async function getTweetsAndInsertHTML() {
         return `<div id=${tweet._id} class="tweets">
             <div class="tweet-profile-image">
             <img
-                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDV8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://pbs.twimg.com/profile_images/1558914040164143104/HVRm70b8_400x400.jpg"
                 alt="profile image"
             />
             </div>
