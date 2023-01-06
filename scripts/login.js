@@ -145,7 +145,7 @@ loginBtn.addEventListener("click", () => {
                 wrongEmail = false;
                 if(user.password == loginPassword.value){
                     localStorage.setItem("twitterLoginEmail", loginEmail.value);
-                    alert("ok")
+                    
                         window.location.href ="home.html";
             }
                 else{
